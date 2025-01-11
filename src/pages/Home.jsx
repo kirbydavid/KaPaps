@@ -6,7 +6,7 @@
             <>
                 <Header />
 
-                <div className="flex flex-col items-center justify-center max-h-[80vh] border">
+                <div className="flex flex-col items-center justify-center mt-28 max-h-[80vh] ">
                     <Library/>
 
                 </div>
