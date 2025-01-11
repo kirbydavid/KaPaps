@@ -1,18 +1,18 @@
-import Header from "../Components/Header"
-import Library from "../Components/Library"
+    import Header from "../Components/Header"
+    import Library from "../Components/Library"
 
-export default function Home() {
-    return (
-        <>
-            <Header />
+    export default function Home() {
+        return (
+            <>
+                <Header />
 
-            <div className="flex flex-col items-center justify-center ">
-                <input placeholder="Search here" className="border rounded border-slate-300 w-[20%] mb-5"></input>
-                <Library/>
+                <div className="flex flex-col items-center justify-center ">
+                    <input placeholder="Search here" className="border rounded border-slate-300 w-[20%] mb-5"></input>
+                    <Library/>
 
-            </div>
+                </div>
 
-        </>
-    )
-}
+            </>
+        )
+    }
 

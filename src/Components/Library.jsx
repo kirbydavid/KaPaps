@@ -55,7 +55,7 @@ const LawCardContainer = ({ lawId, title, briefDescription, tags }) => {
 const LawCardTags = ({ lawId, title, briefDescription, tags }) => {
     return (
         <div className="border rounded border-slate-300 p-4">
-            <a href="#">
+            <a href="">
                 <div className="flex flex-row items-center space-x-5">
                     <h1 className="font-bold text-lg">{lawId}</h1>
                     <h4 className="text-md text-gray-700">{title}</h4>
