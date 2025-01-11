@@ -6,7 +6,7 @@ import AskReyes from "./function/askReyes";
 export default function App() {
   return (
     <>
-    <AskReyes/>
+    <Home/>
     </>
   )
 }
