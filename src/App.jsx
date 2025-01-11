@@ -2,7 +2,7 @@
 export default function App() {
   return (
     <>
-    <p>test</p>
+    <p>testtest</p>
     </>
   )
 }
