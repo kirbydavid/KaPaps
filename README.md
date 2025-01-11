@@ -4,8 +4,8 @@ Simplifying law statements for easy understanding
 
 ## Tech Stack
 
-**Client:** React with Vite, TailwindCSS
-
+**Client:** React with Vite
+**UI:** TailwindCSS
 **Server:** Node, Firebase
 
 ## Installation
