@@ -6,8 +6,8 @@ export default function Home() {
         <>
             <Header />
 
-            <div className="">
-                <input placeholder="Search here" className="border rounded border-slate-300 w-[20%]"></input>
+            <div className="flex flex-col items-center justify-center ">
+                <input placeholder="Search here" className="border rounded border-slate-300 w-[20%] mb-5"></input>
                 <Library/>
 
             </div>
