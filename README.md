@@ -1,8 +1,39 @@
-# React + Vite
+# SIMPLAWCITY
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Simplifying law statements for the common folks of the Philippines.
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Client:** React with Vite, TailwindCSS
+
+**Server:** Node, Firebase
+
+## Installation
+
+1. Clone github repo
+
+```bash
+git clone https://github.com/kirbydavid/KaPaps.git
+```
+
+2. Install dependencies:
+```bash
+npm install
+````
+
+3. Run the server
+```bash
+npm run dev
+```
+
+## Acknowledgements
+
+ - [ReactJS](https://react.dev)
+ - [Vite](https://vite.dev/)
+ - [Firebase](https://firebase.google.com/docs/)
+ - [TailwindCSS](https://tailwindcss.com/)
+ - [DenserAI](https://denser.ai/)
+
+## License
+
+[Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
