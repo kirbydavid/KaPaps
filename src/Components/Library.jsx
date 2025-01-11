@@ -46,7 +46,7 @@ export default function Library() {
                     placeholder="Search for laws..."
                     value={searchQuery}
                     onChange={(e) => setSearchQuery(e.target.value)}
-                    className="w-full p-2 border rounded-md border border-gray-300 rounded hover:bg-gray-200 transition-colors duration-300"
+                    className="w-full p-2 rounded-md border border-gray-300  hover:bg-gray-200 transition-colors duration-300"
                 />
             </div>
 
@@ -129,7 +129,7 @@ const LawCardContainer = ({ lawId, title, briefDescription, summary, tags, refer
 
 const LawCardTags = ({ lawId, title, briefDescription, tags }) => {
     return (
-        <div className="border rounded border-slate-300 p-4 border border-gray-300 rounded hover:bg-gray-200 transition-colors duration-300">
+        <div className=" p-4 border border-gray-300 rounded hover:bg-gray-200 transition-colors duration-300">
             <div className="flex flex-row items-center space-x-5">
                 <h1 className="font-bold text-lg law-item">{lawId}</h1>
                 <h4 className="font-semibold text-gray-700">{title}</h4>
