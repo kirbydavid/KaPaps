@@ -1,4 +1,4 @@
-# SIMPLAWCITY
+# simpLAWcity
 
 Simplifying law statements for the common folks of the Philippines.
 
