@@ -25,7 +25,7 @@ export default function Library() {
     }, []); // Empty dependency array means this runs once on mount
 
     return (
-        <div className="flex flex-col items-center overflow-y-auto h-[20%] max-w-screen-lg space-y-2">
+        <div className="flex flex-col items-center overflow-y-auto max-w-screen-lg space-y-2">
             {laws.map((law) => (
                 <LawCardContainer
                     key={law.id} // Use document ID as key
