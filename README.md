@@ -1,6 +1,6 @@
 # simpLAWcity
 
-Simplifying law statements for the common folks of the Philippines.
+Simplifying law statements for easy understanding
 
 ## Tech Stack
 
