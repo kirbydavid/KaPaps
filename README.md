@@ -4,10 +4,10 @@ Simplifying law statements for easy understanding
 
 ## Tech Stack
 
-**Client:** React with Vite
-**UI:** TailwindCSS
-**Server:** Node, Firebase
-**A.I Integration: BotPress
+- **Client:** React with Vite
+- **UI:** TailwindCSS
+- **Server:** Node, Firebase
+- **A.I Integration:** BotPress
 
 ## Installation
 
