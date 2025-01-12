@@ -7,6 +7,7 @@ Simplifying law statements for easy understanding
 **Client:** React with Vite
 **UI:** TailwindCSS
 **Server:** Node, Firebase
+**A.I Integration: BotPress
 
 ## Installation
 
