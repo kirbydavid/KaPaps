@@ -92,7 +92,7 @@ const LawCardContainer = ({ lawId, title, briefDescription, summary, tags, refer
 
             {isModalOpen && (
                 <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-50 ">
-                    <div className="relative bg-white p-8 rounded shadow-lg max-w-screen-lg w-[80%] h-auto lg:h-[80%] lg:w-[60%]">
+                    <div className="relative bg-white p-8 rounded shadow-lg max-w-screen-lg w-full h-auto]">
                         {/* Close Button */}
                         <button
                             onClick={closeModal}
