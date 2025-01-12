@@ -9,7 +9,7 @@ export default function Header() {
                 <div className="w-full h-4 bg-customRed"></div>
                 
                 <div className="flex justify-center border rounded border-slate-300 w-full mb-10 px-2 py-0 bg-white ">
-                <img src={headerImage} alt="headerImage" className="h-[10%] w-[12%]" />
+                <img src={headerImage} alt="headerImage" className="h-[20%] w-[35%] md:w-[20%]" />
 
                 </div>
 
