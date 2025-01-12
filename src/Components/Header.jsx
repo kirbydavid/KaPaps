@@ -1,4 +1,4 @@
-
+import headerImage from '../assets/Center.png';
 export default function Header() {
     return (
         <>
